@@ -1,16 +1,41 @@
-# React + Vite
+# Comment Review App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Comment Review Application deployed on Vercel. This project allows users to add and view comments in a review-style UI.
 
-Currently, two official plugins are available:
+## Live demo: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://pr-4-comment-review-seven.vercel.app/
 
-## React Compiler
+## 🛠️ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Add new comments
 
-## Expanding the ESLint configuration
+- Display a list of comments
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean and responsive UI
+
+- Built with modern frontend technologies
+
+- Deployed on Vercel
+
+## 📦 Tech Stack
+
+- HTML
+
+- CSS
+
+- JavaScript
+
+- React 
+
+## 📷 Project preview
+
+![alt text](pr-4-comment-review-seven.vercel.app_.png)
+
+## 🧠 How It Works
+
+Describe the user flow here:
+
+- User enters a comment
+
+- The comment is displayed in the review list
